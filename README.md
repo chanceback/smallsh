@@ -1,3 +1,6 @@
-# smallsh
+# smallsh (Custom Linux Shell)
 ## About
-A basic unix operating system shell meant to show compentance in working with mid-level programming languages and the fundamentals of operating systems.
+- Developed a bash-like shell with a command line interface
+- Uses Linux Process API to create/coordiante/terminate local processes
+- Implemented support for signal handling, variable expansion and input/output redirection
+- Allows user commands to be run in foreground or background
