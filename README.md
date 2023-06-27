@@ -20,3 +20,11 @@ Running a Process In the Background:
 
 Custom Signals Handling and Built-in Exit Command:
 ![exit and signals handling](https://drive.google.com/uc?export=view&id=1MRLWRhv3gI4jlaDlP2d5ZmaZR2CEpy3J)
+
+
+## Usage Setup
+If you'd like to run smallsh, download and unzip the github files. 
+
+Next call `make` in the same directory. It uses the gcc compiler so make sure your linux distro has gcc installed.
+
+Lastly run `PS1="$ " ./smallsh` and you shell should start up!
